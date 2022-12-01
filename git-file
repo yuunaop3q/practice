@@ -4,8 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <title>HTML 5 complete</title>
-  <!--[if IE]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 
 <![endif]-->
   <style>
@@ -27,7 +26,7 @@
 <body>
   <p>Hello World</p>
   <p>やっほー、世界</p>
-  <p>元気？</p>
+  <p>起きるの遅かったね。</p>
   <p>今度遊ぼー</p>
 </body>
 
